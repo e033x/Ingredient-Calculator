@@ -1,0 +1,11 @@
+water 1
+flour 2.1
+honey 0.7
+salt 0.87
+yeast 1.74
+oliveoil 1.08
+sugar 1.18
+butter 1.04
+milk 1.035
+rice 1.32
+bulgur 1.69
